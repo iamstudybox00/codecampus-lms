@@ -64,3 +64,39 @@ Spring Security를 기반으로 **교수, 학생, 관리자** 권한을 분리�
 ![프로젝트 구성도](./images/project_structure.png)
 
 </details>
+
+---
+
+## 🎬 실행 화면
+
+<details>
+<summary>실행 화면 보기</summary>
+
+### 로그인
+![로그인](./images/login.gif)
+
+### 수강 신청
+![수강 신청](./images/lecture_registration.gif)
+
+### 강의 목록
+![강의 목록](./images/lecture.gif)
+
+### 강의 첨부파일 구분
+![강의 첨부파일 구분](./images/file_download.gif)
+
+### 과제 목록
+![과제 목록](./images/assignment_list.gif)
+
+### 과제 작성
+![과제 작성](./images/assignment_write.gif)
+
+### 게시글 작성
+![게시글 작성](./images/board_write.gif)
+
+### 게시글 수정 및 멀티파일
+![게시글 수정 및 멀티파일](./images/board_edit_multifile.gif)
+
+### 프로필 이미지 변경
+![프로필 이미지 변경](./images/profile_change.gif)
+
+</details>
