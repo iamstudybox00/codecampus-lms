@@ -12,6 +12,11 @@ Spring Security를 기반으로 **교수, 학생, 관리자** 권한을 분리�
 - **박선민**
 ---
 
+## 📅 개발 기간  
+🛠️ 2025.06.26 ~ 2025.07.17
+
+---
+
 ## ⚙️ 기술 스택
 
 ![Java21](https://img.shields.io/badge/Java21-5382a1?style=for-the-badge&logo=openjdk&logoColor=white) ![SpringBoot3.4.7](https://img.shields.io/badge/SpringBoot3.4.7-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![SpringSecurity](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white) ![JSP](https://img.shields.io/badge/JSP-FF0033?style=for-the-badge&logo=java&logoColor=white) ![Bootstrap5](https://img.shields.io/badge/Bootstrap5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScriptES6](https://img.shields.io/badge/JavaScriptES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![OracleDB](https://img.shields.io/badge/OracleDB-F80000?style=for-the-badge&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
