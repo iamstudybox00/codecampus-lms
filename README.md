@@ -67,9 +67,6 @@ Spring Security를 기반으로 **교수, 학생, 관리자** 권한을 분리�
 
 ## 🎬 실행 화면
 
-<details>
-<summary>실행 화면 보기</summary>
-
 ### 로그인
 ![로그인](./images/login.gif)
 
@@ -96,5 +93,3 @@ Spring Security를 기반으로 **교수, 학생, 관리자** 권한을 분리�
 
 ### 프로필 이미지 변경
 ![프로필 이미지 변경](./images/profile_change.gif)
-
-</details>
