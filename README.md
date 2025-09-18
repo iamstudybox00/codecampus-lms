@@ -26,6 +26,16 @@ Spring Security를 기반으로 **교수, 학생, 관리자** 권한을 분리�
 
 ## 🗂️ 프로젝트 설명
 
+**전체 ERD**
+
+![전체 ERD](./images/erd.png)
+
+**프로젝트 구성도**
+
+![프로젝트 구성도](./images/project_structure.png)
+
+---
+
 ### 📌 역할별 프로세스
 
 #### 👨‍🎓 학생(Student) - 안현준
@@ -52,23 +62,6 @@ Spring Security를 기반으로 **교수, 학생, 관리자** 권한을 분리�
 - 강의 관리: 전체 강의 목록 조회/수정/삭제
 - 공지사항 관리: 등록/수정/삭제
 - Q&A 관리: Q 카테고리 글 조회/수정/삭제, 답글 권한 분리
-
----
-
-## 📂 프로젝트 구성
-
-<details>
-<summary>전체 ERD 보기</summary>
-
-![전체 ERD](./images/erd.png)
-
-</details>
-<details>
-<summary>전체 프로젝트 구성도 보기</summary>
-
-![프로젝트 구성도](./images/project_structure.png)
-
-</details>
 
 ---
 
